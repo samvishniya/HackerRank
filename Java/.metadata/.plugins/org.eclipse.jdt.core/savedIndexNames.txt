@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\JavaWork\JavaExercises\HackerRank\Java\.metadata\.plugins\org.eclipse.jdt.core
+2648550470.index
+3353514746.index
