@@ -9,7 +9,7 @@ import java.util.regex.*;
 /* Task
  * Given an integer n, , print its first n multiples. 
  * Each multiple  (where 1<= i<=10 ) should be printed on a new line in the form: N x i = result.
- * 
+ * blabla
  */
 public class JavaLoops1 {
 
